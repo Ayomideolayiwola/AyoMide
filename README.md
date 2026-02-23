@@ -1,38 +1,36 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Ayomide Olayiwola👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Solution+Specialist+%7C+Business+Intelligence;Smart+Solution,+Measurable+;[PowerBi+Developer+%7C+Automation+Specialist];[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ayomide-olayiwola/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:olaayomide222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data solution specialist passionate about helping businesses and organizations achieve measurable growth and meaningful impact through the use of data. I enjoy creating workflows, transforming data into clear outcomes and useful informations that are easily understood by business professionals.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on building automation workflows, creating models that simplify work, analyzing data for making critical business decisions, creating dashboards that better explain the analysis.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy managing communities, having a one-one session with data analyst enthusiast. I love the "aha!" moment when my codes finally run through. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://Ayomideolayiwola.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Building a Loan Reminder Automation System
+
+
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Learning Analytics Engineering: DBT using Snowflake and VS Code 
 
 ## 🛠️ Technical Skillset
 
@@ -42,21 +40,23 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Looker-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Looker Skill Badge">
+  <img src="https://img.shields.io/badge/BigQuery-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="BigQuery Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/n8n-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="n8n Skill Badge">
+  <img src="https://img.shields.io/badge/make.com-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="make.com Skill Badge">
 </p>
 
-#### Business Intelligence & Analytics
+#### Analytics Engineering
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/DBT-Beginner-FF6B6B?style=flat" alt="DBT Skill Badge">
+  <img src="https://img.shields.io/badge/Snowflake-Beginner-4ECDC4?style=flat" alt="Snowflake Skill Badge">
+  <img src="https://img.shields.io/badge/VS%20Code-Beginner-45B7D1?style=flat" alt="VS Code Skill Badge">
 </p>
