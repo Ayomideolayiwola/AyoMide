@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I prefer to call myself a data solution specialist who is isn't just passionate about transforming and analysing data, but passionate about helping businesses and organizations achieve measurable growth and meaningful impact through the use of data. I enjoy creating workflows, transforming data into clear outcomes and useful informations that are easily understood by business professionals.
+I prefer to call myself a Data Solution Specialist who isn't just passionate about transforming and analysing data, but passionate about helping businesses and organizations achieve measurable growth and meaningful impact through the use of data. I enjoy creating workflows, transforming data into clear outcomes and useful informations that are easily understood by business professionals.
 
 My focus is on building automation workflows, creating models that simplify work, analyzing data for making critical business decisions, creating dashboards that better explain the analysis.
 
