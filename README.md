@@ -43,15 +43,15 @@ When I'm not working with data, I enjoy managing communities, having a one-one s
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-  <img src="https://img.shields.io/badge/Looker-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Looker Skill Badge">
-  <img src="https://img.shields.io/badge/BigQuery-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="BigQuery Skill Badge">
+  <img src="https://img.shields.io/badge/Looker-Intermediate-E97627?style=flat&logo=looker&logoColor=white" alt="Looker Skill Badge">
+  <img src="https://img.shields.io/badge/BigQuery-Intermediate-E97627?style=flat&logo=bigquery&logoColor=white" alt="BigQuery Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/n8n-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="n8n Skill Badge">
-  <img src="https://img.shields.io/badge/make.com-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="make.com Skill Badge">
+  <img src="https://img.shields.io/badge/n8n-Beginner-276DC3?style=flat&logo=n8n&logoColor=white" alt="n8n Skill Badge">
+  <img src="https://img.shields.io/badge/make.com-Beginner-276DC3?style=flat&logo=make.com&logoColor=white" alt="make.com Skill Badge">
 </p>
 
 #### Analytics Engineering
